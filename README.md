@@ -1,3 +1,4 @@
-`
-A working Calculator Made With Javascript: https://eneskotech.github.io/Calculator/
+`## Live Demo
+
+👉 [Open Calculator](https://eneskotech.github.io/Calculator/)
 `
